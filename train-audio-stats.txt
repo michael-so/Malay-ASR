@@ -1,3 +1,9 @@
-female audio files: from 0 to 18749 (halved, originally from 0 to 37499)
-male audio files: from 0 to 18749 (halved, originally from 0 to 37499)
+TRAIN SET
+female audio files for train set: from 0 to 18749 (halved, originally from 0 to 37499)
+male audio files or train set: from 0 to 18749 (halved, originally from 0 to 37499)
 *taken half from a total of 37499 audio files each for both males and females
+
+TEST SET
+female audio files for test set: from 37500 to 43749 (halved, originally from 37500 to 49999)
+male audio files or train set: from 37500 to 43749 (halved, originally from 37500 to 49999)
+*taken half from a total of 12499 audio files each for both males and females
